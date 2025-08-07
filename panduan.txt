@@ -1,0 +1,12 @@
+- Cara ambil ApiKey dan ApiId
+1. Buka website https://arfystore.shop
+2. Buat akun atau login
+3. Klik profile
+4. Pilih Setting API
+5. Salin ApiKey dan ApiId
+
+- Note
+Jika bot sudah jalan jangan lupa untuk ketik #cekip dan masukkan IP yg dikirim bot ke whitelist IP di ArfyStore
+
+Untuk lebih lanjut silahkan bisa hubungi no di bawah ini
+https://wa.me/62895630880006

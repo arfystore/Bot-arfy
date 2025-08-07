@@ -1,0 +1,171 @@
+{
+  "data": {
+    "list": [],
+    "testi": [],
+    "chat": {
+      "120363391343806107@g.us": {
+        "welcome": false,
+        "antilink": false,
+        "antilink2": false,
+        "sDone": "",
+        "sProses": ""
+      },
+      "120363144173636008@g.us": {
+        "welcome": false,
+        "antilink": false,
+        "antilink2": false,
+        "sDone": "",
+        "sProses": ""
+      },
+      "120363421357363746@g.us": {
+        "welcome": false,
+        "antilink": false,
+        "antilink2": false,
+        "sDone": "",
+        "sProses": ""
+      }
+    },
+    "type": "persen",
+    "users": {
+      "62895630880006@s.whatsapp.net": {
+        "saldo": 893552,
+        "role": "bronze",
+        "device": "android"
+      },
+      "6282297759924@s.whatsapp.net": {
+        "saldo": 0,
+        "role": "bronze",
+        "device": "android"
+      },
+      "6283184214190@s.whatsapp.net": {
+        "saldo": 0,
+        "role": "bronze",
+        "device": "android"
+      },
+      "6283176917933@s.whatsapp.net": {
+        "saldo": 0,
+        "role": "bronze",
+        "device": "android"
+      },
+      "6285696034905@s.whatsapp.net": {
+        "saldo": 0,
+        "role": "bronze",
+        "device": "android"
+      },
+      "6281262845966@s.whatsapp.net": {
+        "saldo": 9000,
+        "role": "bronze",
+        "device": "android"
+      },
+      "6282138128209@s.whatsapp.net": {
+        "saldo": 0,
+        "role": "bronze",
+        "device": "android"
+      },
+      "6285649046027@s.whatsapp.net": {
+        "saldo": 37,
+        "role": "bronze",
+        "device": "android"
+      },
+      "6282269105005@s.whatsapp.net": {
+        "saldo": 0,
+        "role": "bronze",
+        "device": "android"
+      },
+      "62895639880006@s.whatsapp.net": {
+        "saldo": 1000000,
+        "role": "bronze"
+      },
+      "6283842706898@s.whatsapp.net": {
+        "saldo": 0,
+        "role": "bronze",
+        "device": "android"
+      },
+      "6285143092450@s.whatsapp.net": {
+        "saldo": 786,
+        "role": "bronze",
+        "device": "android"
+      },
+      "6285748247119@s.whatsapp.net": {
+        "saldo": 0,
+        "role": "bronze",
+        "device": "android"
+      },
+      "62895351727943@s.whatsapp.net": {
+        "saldo": 0,
+        "role": "bronze",
+        "device": "android"
+      },
+      "6283111878124@s.whatsapp.net": {
+        "saldo": 0,
+        "role": "bronze",
+        "device": "android"
+      },
+      "6285722268053@s.whatsapp.net": {
+        "saldo": 0,
+        "role": "bronze",
+        "device": "android"
+      },
+      "6285770459190@s.whatsapp.net": {
+        "saldo": 0,
+        "role": "bronze",
+        "device": "android"
+      }
+    },
+    "sewa": {},
+    "profit": {
+      "bronze": 800,
+      "silver": 400,
+      "gold": 200
+    },
+    "topup": {
+      "6283176917933@s.whatsapp.net": {
+        "id": "F3F05DAF0D",
+        "session": "KONFIRMASI-TOPUP",
+        "payment": "",
+        "reffId": "",
+        "name": "r",
+        "date": "02 Juli 2025",
+        "data": {
+          "code": "FF70",
+          "name": "70 Diamond Free Fire",
+          "price": 8815,
+          "category": "Games",
+          "operator": "TPG Diamond Free Fire",
+          "id": "produk",
+          "zone": "",
+          "nickname": "User Id not found"
+        }
+      }
+    },
+    "setting": {
+      "6282162319186@s.whatsapp.net": {
+        "autoread": true,
+        "autoketik": false,
+        "anticall": true
+      }
+    },
+    "deposit": {
+      "6285649046027@s.whatsapp.net": {
+        "ID": "EFAC30534A",
+        "session": "konfirmasi_deposit",
+        "name": "~ ᴍᴀʏᴏɴᴇss",
+        "date": "05 Juli 2025",
+        "number": "6285649046027@s.whatsapp.net",
+        "payment": "E-WALLET",
+        "data": {
+          "amount_deposit": 600,
+          "fee": 6,
+          "total_deposit": 606
+        }
+      }
+    },
+    "persentase": {
+      "feeDepo": 1,
+      "bronze": 2,
+      "silver": 1,
+      "gold": 0
+    },
+    "customProfit": {}
+  }
+}
