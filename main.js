@@ -144,7 +144,7 @@ async function startronzz() {
     whitespaceBreak: false
   })))
   delay(100)
-  console.log(chalk.yellow(`${chalk.red('[ CREATOR EZY ]')}\n\n${chalk.italic.magenta(`SV Ezy\nNomor: 0895630880006\nSebut nama👆,`)}\n\n\n${chalk.red(`ADMIN MENYEDIAKAN`)}\n${chalk.white(`- SC BOT TOPUP\n- WEB TOPUP arfystore.shop\n- WEB KEBSOS arfystore.web.id`)}`))
+  console.log(chalk.yellow(`${chalk.red('[ CREATOR EZY ]')}\n\n${chalk.italic.magenta(`SV Ezy\nNomor: 0895630880006\nSebut nama👆,`)}\n\n\n${chalk.red(`ADMIN MENYEDIAKAN`)}\n${chalk.white(`- SC BOT TOPUP\n- WEB TOPUP arfystore.shop`)}`))
 
   require('./index')
   nocache('../index', module => console.log(chalk.greenBright(`[ ${botName} ]  `) + time + chalk.cyanBright(` "./index.js" telah diupdate!`)))
